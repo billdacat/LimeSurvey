@@ -370,5 +370,4 @@ return array(
             'jquery.autocomplete'.$minVersion.'.js'
         ),
     ),
-
 );
